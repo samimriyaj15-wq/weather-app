@@ -1,6 +1,6 @@
-# weather-app
+# Weather-app
  Weather App
-# Basic Weather App
+#  Weather App
 
 Two implementations, matching the Beginner and Advanced tiers.
 
